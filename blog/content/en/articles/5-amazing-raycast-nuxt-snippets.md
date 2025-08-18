@@ -17,6 +17,8 @@ readingTime: "10"
 
 ![preview](/articles/5-raycast-snippets.jpg)
 
+A boobbbb
+
 In the realm of web development, where efficiency is as valuable as expertise, tools that streamline and simplify our workflow are indispensable. Among these, Raycast snippets emerge as a powerful ally, especially for those working with Nuxt and Vue frameworks. But what exactly are these snippets, and how can they transform your development experience?
 
 ## What Are Raycast Snippets?
@@ -157,7 +159,7 @@ function loadData() {
 
 #### Enhance Productivity
 
-Raycast snippets save time and effort by providing ready-to-use code templates, allowing you to focus on the unique aspects of your project.
+1. Raycast snippets save time and effort by providing ready-to-use code templates, allowing you to focus on the unique aspects of your project.
 
 #### Maintain Consistency
 
